@@ -1,0 +1,31 @@
+//
+// COLORS
+// --------------------------------------------------
+$color-white: #fff;
+$color-black: #000;
+
+//
+// GLOBAL ANIMATION SETTINGS
+// --------------------------------------------------
+$global-transition-animation: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+$global-transition-time-slow: 1s;
+$global-transition-time: 0.3s;
+$global-transition-time-fast: 0.25s;
+$global-transition: all $global-transition-animation $global-transition-time;
+
+//
+// GRID
+// --------------------------------------------------
+$screen-xs: 600px;
+$screen-sm: 769px;
+$screen-md: 992px;
+$screen-lg: 1260px;
+
+//
+// FONTS
+// --------------------------------------------------
+$font: Arial, "Helvetica Neue", Helvetica, sans-serif;
+$weight-normal: 400;
+$weight-medium: 500;
+$weight-semi-bold: 600;
+$weight-bold: 700;

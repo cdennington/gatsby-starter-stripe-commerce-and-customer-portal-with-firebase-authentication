@@ -1,0 +1,15 @@
+node_modules/
+.cache/
+public
+tmpnodejsnpm-cache/
+package-lock.json
+.vscode
+.env.production
+.env.development
+.firebase
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+firebase-debug.log
+.env.copy.production
+functions/.runtimeconfig.json
